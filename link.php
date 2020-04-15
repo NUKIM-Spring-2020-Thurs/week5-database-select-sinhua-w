@@ -1,5 +1,5 @@
 <?php
-	$link=mysqli_connect('localhost','root','a200089030989','php2020');
+	$link=mysqli_connect('localhost','root','password','php2020');
 	$SQL="SELECT *
    		  FROM employee";
 
